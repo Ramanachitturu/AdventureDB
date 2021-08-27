@@ -220,5 +220,6 @@
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="ExtendedProperties.sql" />
     <Build Include="Ramanaadded table.sql" />
+    <Build Include="testingcicd.sql" />
   </ItemGroup>
 </Project>
